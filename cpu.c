@@ -14,12 +14,11 @@ struct cpu a;
 
 void read_cpu()
 {
-    
-    fp = fopen("text.txt", "r");
+    char x[100] = "/proc/cpuinfo";
+    fp = fopen(x, "r");
     if(fp != NULL)
     {
-        //fscanf(fp, "\n\n\n%s", &a.m_cpu);
-        fseek( fp, 83, SEEK_SET );
+        fseek( fp, 79, SEEK_SET );
         fgets (a.m_cpu, 100, fp);
         printf("Name: %s", a.m_cpu);
         fclose(fp);
@@ -31,6 +30,7 @@ void read_cpu()
 
 int main() 
 {
+
     read_cpu();
     return 0;
 }
