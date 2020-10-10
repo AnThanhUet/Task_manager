@@ -1,0 +1,12 @@
+VanNC: 6 1 9
+OanhLT4: 7 8 9
+KhoTV: 2 5 10
+QTV: 2 5 10
+Annt: 10 9 10
+nam: 9 5 10
+toan: 9 5 4
+dung: 9 5 2
+abc: 3 5 0
+xyz: 7 5 8
+uet: 6 5 10
+
