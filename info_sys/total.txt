@@ -1,0 +1,9 @@
+Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz
+MemTotal:        8044784 kB
+MemFree:         1111180 kB
+MemAvailable:    3807120 kB
+Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz
+MemTotal:       16134472 kB
+MemFree:        11332836 kB
+MemAvailable:   12702260 kB
+

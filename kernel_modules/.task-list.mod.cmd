@@ -1,0 +1,1 @@
+cmd_/home/anthanh/Desktop/Task-Manager-Project/kernel_modules/task-list.mod := { echo  /home/anthanh/Desktop/Task-Manager-Project/kernel_modules/task-list.o; echo; } > /home/anthanh/Desktop/Task-Manager-Project/kernel_modules/task-list.mod
